@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 flask = "*"
+flask-marshmallow = "*"
+flask-sqlalchemy = "*"
+autopep8 = "*"
 
 [dev-packages]
 
